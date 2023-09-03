@@ -8,7 +8,7 @@ O `PET.py` é um projeto do **PET-Física/UFRN** em que apresentamos a solução
 
 ## Participantes do projeto e seus notebooks
 
-Aqui você pode conferir outros `Notebooks` elaborados por outros membros do **PET-Física/UFRN** que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
+Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-Física/UFRN** que fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
 
 #### Anderson Mateus (ativo)
