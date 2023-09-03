@@ -6,20 +6,7 @@ Este repositório contém os Notebooks elaborados pelo membro do **PET-Física/U
 
 O `PET.py` é um projeto do **PET-Física/UFRN** em que apresentamos a solução de problemas físicos famosos utilizando linguagem de programação Python. Cada um dos problemas é resolvido e apresentado por um aluno petiano. O endereço de nosso blog contendo os Notebooks produzidos por cada membro está disponível em: <https://petfisica.home.blog/pet-py/>.
 
-## Notebooks do autor do repositório
-
-#### Moisés da Rocha Alves (ativo)
-- [A lei do deslocamento de Wien](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/A%20lei%20do%20deslocamento%20de%20Wien.ipynb)
-- [Campos magnéticos gerados por uma corrente](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Campos%20magnéticos%20gerados%20por%20uma%20corrente.ipynb)
-- [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
-- [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
-- [O campo elétrico gerado por um dipolo elétrico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20campo%20elétrico%20gerado%20por%20um%20dipolo%20elétrico.ipynb)
-- [O canhão de Newton](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20canhão%20de%20Newton.ipynb)
-- [O lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
-- [O período de um oscilador não harmônico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20período%20de%20um%20oscilador%20não%20harmônico.ipynb)
-- [Propagação temporal de uma função de onda (método de Crank-Nicolson)](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Propagação%20temporal%20de%20uma%20função%20de%20onda%20(método%20de%20Crank-Nicolson).ipynb)
-
-## Outros Notebooks
+## Participantes do projeto e seus notebooks
 
 Aqui você pode conferir outros `Notebooks` elaborados por outros membros do **PET-Física/UFRN** que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
@@ -79,6 +66,16 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do **P
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%202D%20(1).ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%201D.ipynb)
 
+#### Moisés da Rocha Alves (ativo)
+- [A lei do deslocamento de Wien](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/A%20lei%20do%20deslocamento%20de%20Wien.ipynb)
+- [Campos magnéticos gerados por uma corrente](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Campos%20magnéticos%20gerados%20por%20uma%20corrente.ipynb)
+- [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
+- [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
+- [O campo elétrico gerado por um dipolo elétrico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20campo%20elétrico%20gerado%20por%20um%20dipolo%20elétrico.ipynb)
+- [O canhão de Newton](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20canhão%20de%20Newton.ipynb)
+- [O lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
+- [O período de um oscilador não harmônico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20período%20de%20um%20oscilador%20não%20harmônico.ipynb)
+- [Propagação temporal de uma função de onda (método de Crank-Nicolson)](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Propagação%20temporal%20de%20uma%20função%20de%20onda%20(método%20de%20Crank-Nicolson).ipynb)
 
 #### Ricardo César Silva Rêgo (ex-petiano)
 - [Sistema de três molas](https://github.com/Ricardo-PET/Tres-molas/blob/main/Tres-molas-checkpoint.ipynb)
