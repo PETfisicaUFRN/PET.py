@@ -23,6 +23,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 
 #### Matheus Felipe Freitas Tomaz (ativo)
+- [Interpolação de um dado sísmico - Método MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Interpola%C3%A7%C3%A3o%20de%20um%20dado%20s%C3%ADsmico.ipynb)
 - [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Algoritmo%20de%20reconstrução%20esparsa%20-%20MPFI.ipynb)
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%202D%20(1).ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%201D.ipynb)
