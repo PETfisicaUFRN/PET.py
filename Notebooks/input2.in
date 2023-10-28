@@ -1,0 +1,73 @@
+
+#Inicialização
+
+variable T equal 300
+
+units metal
+atom_style molecular
+boundary p p p 
+pair_style airebo 2 1 1
+
+#Parâmetros da simulação
+
+read_data cnt_atom.data
+pair_coeff * * CHrcc2.airebo C
+
+#Recentralizando o CNT e a caixa
+
+change_box all x final -40 40 y final -40 40 z final -60 60
+
+group carbon_atoms type 1
+variable carbon_xcm equal -1*xcm(carbon_atoms,x)
+variable carbon_ycm equal -1*xcm(carbon_atoms,y)
+variable carbon_zcm equal -1*xcm(carbon_atoms,z)
+displace_atoms carbon_atoms move ${carbon_xcm} ${carbon_ycm} ${carbon_zcm}
+
+variable zmax equal bound(carbon_atoms,zmax)-10
+variable zmin equal bound(carbon_atoms,zmin)+10
+region rtop block INF INF INF INF ${zmax} INF
+region rbot block INF INF INF INF INF ${zmin}
+region rmid block INF INF INF INF ${zmin} ${zmax}
+
+group carbon_top region rtop
+group carbon_bot region rbot
+group carbon_mid region rmid
+
+#Termalização e dinâmica do sistema
+
+velocity carbon_mid create ${T} 48455 mom yes rot yes
+fix mynve all nve
+compute Tmid carbon_mid temp
+fix myber carbon_mid temp/berendsen ${T} ${T} 0.1
+fix_modify myber temp Tmid
+
+#Restrigindo o movimento dos átomos da borda
+
+fix mysf1 carbon_bot setforce 0 0 0
+fix mysf2 carbon_top setforce 0 0 0
+velocity carbon_bot set 0 0 0
+velocity carbon_top set 0 0 0
+
+#Salvando os dados
+
+variable pos equal v_zmax-v_zmin
+fix at1 all ave/time 10 10 100 v_pos file cnt_deflection.dat
+fix at2 all ave/time 10 10 100 f_mysf1[3] f_mysf2[3] file edge_force.dat
+
+#Salvando as coordenadas
+
+dump mydmp all atom 1000 dump.lammpstrj
+
+#Equilibrando
+
+thermo 100
+thermo_modify temp Tmid
+
+timestep 0.0005
+run 5000
+
+#Deformando o CNT
+
+velocity carbon_top set 0 0 0.03
+velocity carbon_bot set 0 0 -0.03
+run 280000
