@@ -42,6 +42,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### Tiago Pernambuco Toledo de Macêdo (ativo)
 - [Autoenergias de uma Partícula em um Poço de Potencial Infinito](https://github.com/TiagoPernambuco/PET.py/blob/main/Poço%20de%20Potencial%20Infinito.ipynb)
+- [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/1c519dcb2e0fe10dae2ef99fc9a3adabc984a79f/Notebooks/Transi%C3%A7%C3%B5es%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
 
 #### Gabriel Wendell Celestino Rocha (ex-petiano)
 - [Classificação de galáxias usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20de%20galáxias%20usando%20ML.ipynb)
