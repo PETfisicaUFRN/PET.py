@@ -16,6 +16,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### Bruno Ramos Galindo (ativo)
 - [Cinemática e dinâmica de rotação](https://github.com/Elbruno237/PET.py/blob/main/Cinematica_e_Dinamica_rotacional.ipynb)
+- [Determinando a distância interestelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Determinando%20a%20distância%20interestelar.ipynb)
 
 #### José Arthur de Luna Oliveira (ativo)
 - [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
