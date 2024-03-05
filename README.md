@@ -11,7 +11,7 @@ O `PET.py` é um projeto do **PET-Física/UFRN** em que apresentamos a solução
 Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-Física/UFRN** que fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
 
-#### Anderson Mateus (ativo)
+#### Anderson Mateus (ex-petiano)
 - [Evolução temporal de um ferromagneto utilizando o modelo Ising 2D](https://github.com/andersonmsn0/PET.py/blob/main/Simulando%20ferromagneto%20modelo%20ising%202d/Simulando%20ferromagneto%20modelo%20ising%202d.ipynb)
 
 #### Bruno Ramos Galindo (ativo)
@@ -24,13 +24,13 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Deformando um nanotubo de carbono](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Deformando%20nanotubo%20de%20carbono.ipynb)
 
 
-#### Matheus Felipe Freitas Tomaz (ativo)
+#### Matheus Felipe Freitas Tomaz (ex-petiano)
 - [Interpolação de um dado sísmico - Método MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Interpola%C3%A7%C3%A3o%20de%20um%20dado%20s%C3%ADsmico.ipynb)
 - [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Algoritmo%20de%20reconstru%C3%A7%C3%A3o%20esparsa%20-%20MPFI.ipynb)
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/CONDU%C3%87%C3%83O%20T%C3%89RMICA%202D.ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/CONDU%C3%87%C3%83O%20T%C3%89RMICA%201D.ipynb)
 
-#### Moisés da Rocha Alves (ativo)
+#### Moisés da Rocha Alves (ex-petiano)
 - [A lei do deslocamento de Wien](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/A%20lei%20do%20deslocamento%20de%20Wien.ipynb)
 - [Campos magnéticos gerados por uma corrente](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Campos%20magnéticos%20gerados%20por%20uma%20corrente.ipynb)
 - [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
