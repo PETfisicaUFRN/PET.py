@@ -31,6 +31,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/CONDU%C3%87%C3%83O%20T%C3%89RMICA%202D.ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/CONDU%C3%87%C3%83O%20T%C3%89RMICA%201D.ipynb)
 - [Modelagem Acústica Via Diferenças Finitas](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelagem%20acústica%20via%20diferenças%20finitas.ipynb)
+- [Modelagem Acústica Via Diferenças Finitas](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelagem%20acústica%20via%20diferenças%20finitas.ipynb)
 
 #### Moisés da Rocha Alves (ex-petiano)
 - [A lei do deslocamento de Wien](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/A%20lei%20do%20deslocamento%20de%20Wien.ipynb)
