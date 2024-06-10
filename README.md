@@ -19,17 +19,17 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Determinando a distância interestelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Determinando%20a%20distância%20interestelar.ipynb)
 - [Efeito Compton](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Compton.ipynb)
 #### José Arthur de Luna Oliveira (ativo)
-- [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
-- [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Investigação%20da%20energia%20de%20ligação%20entre%20átomos%20utilizando%20o%20potencial%20de%20Lennard-Jones..ipynb)
 - [Deformando um nanotubo de carbono](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Deformando%20nanotubo%20de%20carbono.ipynb)
+- [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Investigação%20da%20energia%20de%20ligação%20entre%20átomos%20utilizando%20o%20potencial%20de%20Lennard-Jones..ipynb)
 - [Método Numérico de Numerov](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Metodo_de_Numerov.ipynb)
+- [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 
 
 #### Matheus Felipe Freitas Tomaz (ex-petiano)
-- [Interpolação de um dado sísmico - Método MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Interpola%C3%A7%C3%A3o%20de%20um%20dado%20s%C3%ADsmico.ipynb)
 - [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Algoritmo%20de%20reconstru%C3%A7%C3%A3o%20esparsa%20-%20MPFI.ipynb)
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/CONDU%C3%87%C3%83O%20T%C3%89RMICA%202D.ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/CONDU%C3%87%C3%83O%20T%C3%89RMICA%201D.ipynb)
+- [Interpolação de um dado sísmico - Método MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Interpola%C3%A7%C3%A3o%20de%20um%20dado%20s%C3%ADsmico.ipynb)
 - [Modelagem Acústica Via Diferenças Finitas](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelagem%20acústica%20via%20diferenças%20finitas.ipynb)
 - [Modelagem Acústica Via Diferenças Finitas](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelagem%20acústica%20via%20diferenças%20finitas.ipynb)
 
@@ -46,8 +46,8 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### Tiago Pernambuco Toledo de Macêdo (ativo)
 - [Autoenergias de uma Partícula em um Poço de Potencial Infinito](https://github.com/TiagoPernambuco/PET.py/blob/main/Poço%20de%20Potencial%20Infinito.ipynb)
-- [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/1c519dcb2e0fe10dae2ef99fc9a3adabc984a79f/Notebooks/Transi%C3%A7%C3%B5es%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
 - [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equação%20de%20Gross-Pitaevskii.ipynb)
+- [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/1c519dcb2e0fe10dae2ef99fc9a3adabc984a79f/Notebooks/Transi%C3%A7%C3%B5es%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
 
 #### Gabriel Wendell Celestino Rocha (ex-petiano)
 - [Classificação de galáxias usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20de%20galáxias%20usando%20ML.ipynb)
