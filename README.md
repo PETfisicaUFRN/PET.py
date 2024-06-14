@@ -1,6 +1,7 @@
 # `PET.py`
 Este repositório contém os Notebooks elaborados pelos membros do **PET-Física/UFRN** como contribuição ao projeto `PET.py`. Dentro da pasta `Notebooks` é possível encontrar o conteúdo produzido pelos autores deste repositório.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PETfisicaUFRN&label=Repository%20views&color=0e75b6&style=flat" alt="PETfisicaUFRN" /> </p>
+
 ## Sobre o `PET.py`
 
 O `PET.py` é um projeto do **PET-Física/UFRN** em que apresentamos a solução de problemas físicos famosos utilizando linguagem de programação Python. Cada um dos problemas é resolvido e apresentado por um aluno petiano. O endereço de nosso blog contendo os Notebooks produzidos por cada membro está disponível em: <https://petfisica.home.blog/pet-py/>.
