@@ -1,5 +1,5 @@
 # `PET.py`
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PETfisicaUFRN&label=Profile%20views&color=0e75b6&style=flat" alt="PETfisicaUFRN" /> </p>
 Este repositório contém os Notebooks elaborados pelos membros do **PET-Física/UFRN** como contribuição ao projeto `PET.py`. Dentro da pasta `Notebooks` é possível encontrar o conteúdo produzido pelos autores deste repositório.
 
 ## Sobre o `PET.py`
