@@ -12,6 +12,9 @@ O `PET.py` é um projeto do **PET-Física/UFRN** em que apresentamos a solução
 Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-Física/UFRN** que fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
 
+#### Amannda Laura de Silva (ativo)
+-[Oscilador Harmônico Quântico: Uma Abordagem Computacional](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Oscilador%20Harmônico%20Quântico%20Uma%20Abordagem%C2%A0Computacional.ipynb)
+
 #### Anderson Mateus (ex-petiano)
 - [Evolução temporal de um ferromagneto utilizando o modelo Ising 2D](https://github.com/andersonmsn0/PET.py/blob/main/Simulando%20ferromagneto%20modelo%20ising%202d/Simulando%20ferromagneto%20modelo%20ising%202d.ipynb)
 
