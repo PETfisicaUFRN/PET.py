@@ -45,6 +45,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Campos magnéticos gerados por uma corrente](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Campos%20magnéticos%20gerados%20por%20uma%20corrente.ipynb)
 - [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
 - [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
+- [Não-localidade de Bell e o teorema de Bell](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Não-localidade%20de%20Bell%20e%20o%20teorema%20de%20Bell.ipynb)
 - [O campo elétrico gerado por um dipolo elétrico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20campo%20elétrico%20gerado%20por%20um%20dipolo%20elétrico.ipynb)
 - [O canhão de Newton](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20canhão%20de%20Newton.ipynb)
 - [O lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
