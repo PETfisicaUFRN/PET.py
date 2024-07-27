@@ -1,0 +1,95 @@
+
+#Parâmetros gerais da simulação
+
+units		metal                        
+atom_style	charge                      
+boundary        p p p                       
+
+read_data       data.grafeno               
+pair_style airebo 3.0               
+pair_coeff      * * CHrcc2.airebo C     
+
+neighbor	2.0 bin                     
+neigh_modify	delay 0 every 1 check yes page 500000 one 50000           
+
+variable       tiempo equal step    
+     
+fix             7 all balance 2000 1.1 shift z 10 1.1
+
+variable        velocidade equal 1e-3                            
+variable        timestep_var equal 0.0001                            
+variable        temperature equal 10                             
+variable        termalizar_var          equal 200000             
+variable        termalizar_var_npt      equal 200000             
+variable        taxa_termalizar_var     equal 200                
+
+thermo		${taxa_termalizar_var}                                
+thermo_style    custom step lx ly lz pxx pyy pzz  ke pe press temp
+
+timestep        ${timestep_var}     
+variable        dampingTemp_var  equal  100*${timestep_var}        
+variable        dampingPress_var equal 1000*${timestep_var} 
+
+#Cálculo do stress
+
+variable        cfac equal 1.0e-4                     
+
+variable        p1  equal -pxx*${cfac}
+variable        p2  equal -pyy*${cfac}
+variable        p3  equal -pzz*${cfac}
+variable        p12 equal -pxy*${cfac}
+variable        p13 equal -pxz*${cfac}
+variable        p23 equal -pyz*${cfac}
+
+#Primeira termalização
+
+fix             99 all box/relax aniso 0.0 dilate partial
+minimize        1.0e-10 1.0e-8 1000 200000
+unfix           99
+
+velocity        all create ${temperature} 245789 rot yes mom yes                   
+restart         2000  restarteq1   restarteq2                           
+dump            2 all custom 2000 f_npt.lammpstrj id  type  x y z        
+fix             1 all npt temp ${temperature} ${temperature} ${dampingTemp_var} x 0.0 0.0 ${dampingPress_var} y 0.0 0.0 ${dampingPress_var}      
+run             ${termalizar_var_npt}
+                                 
+undump 2                                                                
+unfix 1                                                               
+
+#Segunda termalização
+
+fix             1 all nph y 0.0 0.0 ${dampingPress_var}                                               
+dump            2 all custom 2000 f_npt2.lammpstrj id type  x y z              
+
+run             ${termalizar_var}                                       
+undump          2                                                      
+
+#Cálculo da deformação
+
+variable alx0_Ic equal lx
+variable aly0_Ic equal ly
+variable alz0_Ic equal lz
+variable lx0_Ic equal ${alx0_Ic}
+variable ly0_Ic equal ${aly0_Ic}
+variable lz0_Ic equal ${alz0_Ic}
+
+variable lxC equal lx
+variable lyC equal ly
+variable lzC equal lz
+
+variable strain_lxC equal (lx-${lx0_Ic})/${lx0_Ic}
+variable strain_lyC equal (ly-${ly0_Ic})/${ly0_Ic}
+variable strain_lzC equal (lz-${lz0_Ic})/${lz0_Ic}
+
+#Deformando a caixa
+
+variable run_var equal 0.3/(${timestep_var}*${velocidade})  
+variable taxa_var equal v_run_var/1000                      
+
+fix equil1 all print ${taxa_var} "${tiempo} ${strain_lxC} ${strain_lyC} ${strain_lzC} ${p1} ${p2} ${p3} ${p12} ${p13} ${p23} ${lxC} ${lyC} ${lzC} " file data.dat screen no
+
+dump 2 all custom ${taxa_var} folha.lammpstrj   id  type  x y z 
+
+fix 2 all deform 1 x erate ${velocidade} remap x     
+restart         2000  restart1   restart2            
+run ${run_var}
