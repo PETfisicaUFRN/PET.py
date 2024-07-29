@@ -30,6 +30,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Método Numérico de Numerov](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Metodo_de_Numerov.ipynb)
 - [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 - [Tunelamento Quântico](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Tunalamento_quantico.ipynb)
+[Calculando o Módulo Young do Grafeno](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks%2FCalculando_Modulo_de_Young_do_Grafeno.ipynb)
 
 
 #### Matheus Felipe Freitas Tomaz (ex-petiano)
