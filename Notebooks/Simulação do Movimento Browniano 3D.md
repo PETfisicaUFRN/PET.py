@@ -12,7 +12,7 @@ Vamos aqui explicar como acessar o `Notebook` original. Para isso, o leitor prec
 
 ### Passo 1: Descompactando o arquivo `.rar` 
 
-O `Notebook` original pode ser baixado através por meio deste [link](https://drive.google.com/file/d/1zzRFvLKRed9I69vf6CamKynQ1_gmwGod/view?usp=share_link). Para acessar o `Notebook` basta baixar o arquivo intitulado `Simulação do Movimento Browniano 3D.ipynb`.
+O `Notebook` original pode ser baixado através por meio deste [link](https://drive.google.com/file/d/1zzRFvLKRed9I69vf6CamKynQ1_gmwGod/view?usp=sharing). Para acessar o `Notebook` basta baixar o arquivo intitulado `Simulação do Movimento Browniano 3D.ipynb`.
 
 ### Passo 2: Instalando o `Jupyter`
 
@@ -42,7 +42,7 @@ Uma vez aberto o `Jupyter`, basta navegar até a pasta onde está salvo o `Noteb
 
 
 ### Links
-- `Simulação do Movimento Browniano 3D.ipynb`: https://drive.google.com/file/d/1zzRFvLKRed9I69vf6CamKynQ1_gmwGod/view?usp=drive_link 
+- `Simulação do Movimento Browniano 3D.ipynb`: https://drive.google.com/file/d/1zzRFvLKRed9I69vf6CamKynQ1_gmwGod/view?usp=sharing
 - Página oficial do Jupyter: https://jupyter.org
 - Guia de instalação do Jupyter: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 - Documentação do Jupyter: https://jupyterlab.readthedocs.io/en/stable/
