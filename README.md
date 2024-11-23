@@ -23,6 +23,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Determinando a distância interestelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Determinando%20a%20distância%20interestelar.ipynb)
 - [Efeito Compton](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Compton.ipynb)
 - [Mecânica Orbital](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Mecânica%20Orbital.ipynb)
+- [O Efeito Rossiter-McLaughlin](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/O_Efeito_Rossiter_McLaughlin.ipynb)
 
 #### Felipe Menescal Pinto de Medeiros (ex-petiano)
 - [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
