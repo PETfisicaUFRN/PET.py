@@ -99,12 +99,6 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [O período de um oscilador não harmônico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20período%20de%20um%20oscilador%20não%20harmônico.ipynb)
 - [Propagação temporal de uma função de onda (método de Crank-Nicolson)](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Propagação%20temporal%20de%20uma%20função%20de%20onda%20(método%20de%20Crank-Nicolson).ipynb)
 
-#### Tiago Pernambuco Toledo de Macêdo (ativo)
-- [Autoenergias de uma Partícula em um Poço de Potencial Infinito](https://github.com/TiagoPernambuco/PET.py/blob/main/Poço%20de%20Potencial%20Infinito.ipynb)
-- [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equação%20de%20Gross-Pitaevskii.ipynb)
-- [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/1c519dcb2e0fe10dae2ef99fc9a3adabc984a79f/Notebooks/Transi%C3%A7%C3%B5es%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
-- [Localização de Anderson](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Localização%20de%20Anderson.ipynb)
-
 #### Ricardo César Silva Rêgo (ex-petiano)
 - [Sistema de três molas](https://github.com/Ricardo-PET/Tres-molas/blob/main/Tres-molas-checkpoint.ipynb)
 - [Pêndulos acoplados](https://github.com/Ricardo-PET/P-ndulos_acoplados/blob/main/Pêndulos_acoplados-checkpoint.ipynb)
@@ -113,6 +107,15 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Caos no pêndulo amortecido forçado](https://github.com/Ricardo-PET/Caos_no_pendulo_amortecido_forcado/blob/master/Caos_no_pêndulo_amortecido_forçado-checkpoint.ipynb)
 - [Modelo de crescimento de um aglomerado de partículas (DLA - Cluster)](https://github.com/Ricardo-PET/Modelo_de_crescimento_de_um_aglomerado-DLA-/blob/master/Cluster_growth_model%20(DLA-Cluster)-checkpoint.ipynb)
 - [Órbita da Terra e Júpiter](https://github.com/Ricardo-PET/Orbita_Da_Terra_E_Jupiter/blob/master/Problema_de_tres_corpos-checkpoint.ipynb)
+
+#### Tiago Pernambuco Toledo de Macêdo (ativo)
+- [Autoenergias de uma Partícula em um Poço de Potencial Infinito](https://github.com/TiagoPernambuco/PET.py/blob/main/Poço%20de%20Potencial%20Infinito.ipynb)
+- [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equação%20de%20Gross-Pitaevskii.ipynb)
+- [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/1c519dcb2e0fe10dae2ef99fc9a3adabc984a79f/Notebooks/Transi%C3%A7%C3%B5es%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
+- [Localização de Anderson](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Localização%20de%20Anderson.ipynb)
+
+#### Wallysson Pereira da Silva (ativo)
+- [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Onda.ipynb)
 
 #### Ylana Karolina Santos Lopes (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
