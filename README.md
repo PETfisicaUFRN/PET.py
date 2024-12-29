@@ -119,3 +119,4 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### Ylana Karolina Santos Lopes (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
+- [Simulação de Evento de Microlentes Gravitacionais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simulação%20de%20Evento%20de%20Microlentes%20Gravitacionais.ipynb)
