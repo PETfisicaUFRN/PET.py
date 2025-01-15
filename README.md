@@ -99,6 +99,9 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [O período de um oscilador não harmônico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20período%20de%20um%20oscilador%20não%20harmônico.ipynb)
 - [Propagação temporal de uma função de onda (método de Crank-Nicolson)](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Propagação%20temporal%20de%20uma%20função%20de%20onda%20(método%20de%20Crank-Nicolson).ipynb)
 
+#### Paulo Henrique Cunha Pacheco (ativo)
+- [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
+
 #### Ricardo César Silva Rêgo (ex-petiano)
 - [Sistema de três molas](https://github.com/Ricardo-PET/Tres-molas/blob/main/Tres-molas-checkpoint.ipynb)
 - [Pêndulos acoplados](https://github.com/Ricardo-PET/P-ndulos_acoplados/blob/main/Pêndulos_acoplados-checkpoint.ipynb)
@@ -121,3 +124,4 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 #### Ylana Karolina Santos Lopes (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
 - [Simulação de Evento de Microlentes Gravitacionais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simulação%20de%20Evento%20de%20Microlentes%20Gravitacionais.ipynb)
+- [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
