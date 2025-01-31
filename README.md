@@ -79,6 +79,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### José Emanuel Vasconcelos Oliveira (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
+- [Equação de Laplace](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Laplace.ipynb)
 
 #### Matheus Felipe Freitas Tomaz (ex-petiano)
 - [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Algoritmo%20de%20reconstru%C3%A7%C3%A3o%20esparsa%20-%20MPFI.ipynb)
