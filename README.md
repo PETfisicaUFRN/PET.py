@@ -121,6 +121,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### Wallysson Pereira da Silva (ativo)
 - [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Onda.ipynb)
+- [Instabilidade no movimento relativístico de partículas num campo eletromagnético não uniforme](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Instabilidade%20no%20movimento%20relativístico%20de%20partículas%20num%20campo%20eletromagnético%20não%20uniforme.ipynb)
 
 #### Ylana Karolina Santos Lopes (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
