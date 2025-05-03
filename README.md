@@ -25,6 +25,10 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Mecânica Orbital](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Mecânica%20Orbital.ipynb)
 - [O Efeito Rossiter-McLaughlin](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/O_Efeito_Rossiter_McLaughlin.ipynb)
 
+### Cecília Nunes de Carvalho (ativo)
+[Explorando teoria musical por meio do estudo de Curvas de Lissajous](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Explorando%20teoria%20musical%20por%20meio%20do%20estudo%20de%20Curvas%20de%20Lissajous.ipynb)
+[Modelando uma Zona de Habitabilidade Circunstelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Toy%20Model%20de%20Zona%20de%20Habitabilidade%20Circunstellar.ipynb)
+
 #### Felipe Menescal Pinto de Medeiros (ex-petiano)
 - [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
 - [Equações de Lorentz](https://github.com/felipemenescal/PET.py/blob/master/lorenz.ipynb)
@@ -123,8 +127,10 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 #### Wallysson Pereira da Silva (ativo)
 - [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Onda.ipynb)
 - [Instabilidade no movimento relativístico de partículas num campo eletromagnético não uniforme](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Instabilidade%20no%20movimento%20relativístico%20de%20partículas%20num%20campo%20eletromagnético%20não%20uniforme.ipynb)
+- [O Problema do Caixeiro Viajante](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Problema%20do%20Caixeiro%20Viajante.ipynb)
 
 #### Ylana Karolina Santos Lopes (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
 - [Simulação de Evento de Microlentes Gravitacionais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simulação%20de%20Evento%20de%20Microlentes%20Gravitacionais.ipynb)
 - [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
+- [Modelo SIR: Uma abordagem estocástica e determinística](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20SIR_Uma%20abordagem%20estoc%C3%A1stica%20e%20determin%C3%ADstica.ipynb)
