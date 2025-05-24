@@ -31,7 +31,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### Felipe Menescal Pinto de Medeiros (ex-petiano)
 - [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
-- [Equações de Lorentz](https://github.com/felipemenescal/PET.py/blob/master/lorenz.ipynb)
+- [Equações de Lorenz](https://github.com/felipemenescal/PET.py/blob/master/lorenz.ipynb)
 
 #### Gabriel Wendell Celestino Rocha (ex-petiano)
 - [Classificação de galáxias usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20de%20galáxias%20usando%20ML.ipynb)
