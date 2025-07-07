@@ -24,6 +24,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Efeito Compton](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Compton.ipynb)
 - [Mecânica Orbital](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Mecânica%20Orbital.ipynb)
 - [O Efeito Rossiter-McLaughlin](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/O_Efeito_Rossiter_McLaughlin.ipynb)
+- [Decaimento Radioativa](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Decaimento_Radioativo.ipynb)
 
 #### Cecília Nunes de Carvalho (ativo)
 - [Explorando teoria musical por meio do estudo de Curvas de Lissajous](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Explorando%20teoria%20musical%20por%20meio%20do%20estudo%20de%20Curvas%20de%20Lissajous.ipynb)
@@ -126,6 +127,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/1c519dcb2e0fe10dae2ef99fc9a3adabc984a79f/Notebooks/Transi%C3%A7%C3%B5es%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
 - [Localização de Anderson](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Localização%20de%20Anderson.ipynb)
 - [Encontrando Transições de Fase com Machine Learning](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Encontrando%20Transições%20de%20Fase%20com%20Machine%20Learning.ipynb)
+- [Átomos de Rydberg: Um Estudo de Campo Médio](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Rydberg.ipynb)
 
 #### Wallysson Pereira da Silva (ativo)
 - [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Onda.ipynb)
