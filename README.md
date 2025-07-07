@@ -12,7 +12,7 @@ O `PET.py` é um projeto do **PET-Física/UFRN** em que apresentamos a solução
 Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-Física/UFRN** que fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
 
-#### Amannda Laura de Silva (ativo)
+#### Amannda Laura de Silva (ex-petiana)
 - [Oscilador Harmônico Quântico: Uma Abordagem Computacional](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Oscilador%20Harmônico%20Quântico%20Uma%20Abordagem%C2%A0Computacional.ipynb)
 
 #### Anderson Mateus (ex-petiano)
@@ -28,6 +28,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 #### Cecília Nunes de Carvalho (ativo)
 - [Explorando teoria musical por meio do estudo de Curvas de Lissajous](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Explorando%20teoria%20musical%20por%20meio%20do%20estudo%20de%20Curvas%20de%20Lissajous.ipynb)
 - [Modelando uma Zona de Habitabilidade Circunstelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Toy%20Model%20de%20Zona%20de%20Habitabilidade%20Circunstellar.ipynb)
+
 
 #### Felipe Menescal Pinto de Medeiros (ex-petiano)
 - [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
@@ -73,13 +74,14 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Efeito Doppler](https://github.com/gustavoavb/PET.py/blob/master/Efeito%20Doppler.ipynb)
 - [Equações de Lotka-Volterra](https://github.com/gustavoavb/PET.py/blob/master/Equações_de_Lotka-Volterra.ipynb)
 
-#### José Arthur de Luna Oliveira (ativo)
+#### José Arthur de Luna Oliveira (ex-petiano)
 - [Calculando o Módulo Young do Grafeno](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks%2FCalculando_Modulo_de_Young_do_Grafeno.ipynb)
 - [Deformando um nanotubo de carbono](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Deformando%20nanotubo%20de%20carbono.ipynb)
 - [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Investigação%20da%20energia%20de%20ligação%20entre%20átomos%20utilizando%20o%20potencial%20de%20Lennard-Jones.ipynb)
 - [Método Numérico de Numerov](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Metodo_de_Numerov.ipynb)
 - [Simulação do Movimento Browniano 3D](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 - [Tunelamento Quântico](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Tunalamento_quantico.ipynb)
+- [Estrutura de Bandas do Grafeno](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Estrutura_de_bandas_do_grafeno.ipynb)
 
 #### José Emanuel Vasconcelos Oliveira (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
@@ -107,6 +109,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### Paulo Henrique Cunha Pacheco (ativo)
 - [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
+- [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equa%C3%A7%C3%A3o%20de%20Gross-Pitaevskii.ipynb)
 
 #### Ricardo César Silva Rêgo (ex-petiano)
 - [Sistema de três molas](https://github.com/Ricardo-PET/Tres-molas/blob/main/Tres-molas-checkpoint.ipynb)
@@ -128,6 +131,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Onda.ipynb)
 - [Instabilidade no movimento relativístico de partículas num campo eletromagnético não uniforme](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Instabilidade%20no%20movimento%20relativístico%20de%20partículas%20num%20campo%20eletromagnético%20não%20uniforme.ipynb)
 - [O Problema do Caixeiro Viajante](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Problema%20do%20Caixeiro%20Viajante.ipynb)
+- [Atratores Caóticos](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Atratores%20Ca%C3%B3ticos.ipynb)
 
 #### Ylana Karolina Santos Lopes (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
