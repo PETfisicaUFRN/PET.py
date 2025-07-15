@@ -88,7 +88,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
 - [Equação de Laplace](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Laplace.ipynb)
 - [Lançamento oblíquo e arrasto](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Lan%C3%A7amento%20obl%C3%ADquo%20e%20arrasto.ipynb)
-- [Período de exoplaneta: Velocidade radial e Lomb-Scargle]([http://localhost:8888/notebooks/Notebook/PET.py/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb))
+- [Período de exoplaneta: Velocidade radial e Lomb-Scargle]([http://localhost:8888/notebooks/Notebook/PET.py/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb)
 
 #### Matheus Felipe Freitas Tomaz (ex-petiano)
 - [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Algoritmo%20de%20reconstru%C3%A7%C3%A3o%20esparsa%20-%20MPFI.ipynb)
