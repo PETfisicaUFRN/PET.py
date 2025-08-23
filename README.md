@@ -141,3 +141,5 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Simulação de Evento de Microlentes Gravitacionais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simulação%20de%20Evento%20de%20Microlentes%20Gravitacionais.ipynb)
 - [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
 - [Modelo SIR: Uma abordagem estocástica e determinística](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20SIR_Uma%20abordagem%20estoc%C3%A1stica%20e%20determin%C3%ADstica.ipynb)
+- [Rede convolucional para Redução de Ruídos em Imagens de Galáxias](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Rede_convolucional_para_Redu%C3%A7%C3%A3o_de_Ru%C3%ADdos_em_Imagens_de_Gal%C3%A1xias.ipynb)
+
