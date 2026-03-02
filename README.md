@@ -11,6 +11,40 @@ O `PET.py` é um projeto do **PET-Física/UFRN** em que apresentamos a solução
 
 Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-Física/UFRN** que fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
+### Participantes ativos
+
+#### Cecília Nunes de Carvalho (ativo)
+- [Explorando teoria musical por meio do estudo de Curvas de Lissajous](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Explorando%20teoria%20musical%20por%20meio%20do%20estudo%20de%20Curvas%20de%20Lissajous.ipynb)
+- [Modelando uma Zona de Habitabilidade Circunstelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Toy%20Model%20de%20Zona%20de%20Habitabilidade%20Circunstellar.ipynb)
+- [Modelando Arco-íris](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/ArcoIris.ipynb)
+
+#### José Emanuel Vasconcelos Oliveira (ativo)
+- [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
+- [Equação de Laplace](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Laplace.ipynb)
+- [Lançamento oblíquo e arrasto](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Lan%C3%A7amento%20obl%C3%ADquo%20e%20arrasto.ipynb)
+- [Período de exoplaneta: Velocidade radial e Lomb-Scargle](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb)
+
+
+#### Paulo Henrique Cunha Pacheco (ativo)
+- [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
+- [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equa%C3%A7%C3%A3o%20de%20Gross-Pitaevskii.ipynb)
+
+
+#### Wallysson Pereira da Silva (ativo)
+- [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Onda.ipynb)
+- [Instabilidade no movimento relativístico de partículas num campo eletromagnético não uniforme](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Instabilidade%20no%20movimento%20relativístico%20de%20partículas%20num%20campo%20eletromagnético%20não%20uniforme.ipynb)
+- [O Problema do Caixeiro Viajante](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Problema%20do%20Caixeiro%20Viajante.ipynb)
+- [Atratores Caóticos](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Atratores%20Ca%C3%B3ticos.ipynb)
+
+#### Ylana Karolina Santos Lopes (ativo)
+- [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
+- [Simulação de Evento de Microlentes Gravitacionais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simulação%20de%20Evento%20de%20Microlentes%20Gravitacionais.ipynb)
+- [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
+- [Modelo SIR: Uma abordagem estocástica e determinística](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20SIR_Uma%20abordagem%20estoc%C3%A1stica%20e%20determin%C3%ADstica.ipynb)
+- [Rede convolucional para Redução de Ruídos em Imagens de Galáxias](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Rede_convolucional_para_Redu%C3%A7%C3%A3o_de_Ru%C3%ADdos_em_Imagens_de_Gal%C3%A1xias.ipynb)
+
+
+### Ex-petianos participantes
 
 #### Amannda Laura de Silva (ex-petiana)
 - [Oscilador Harmônico Quântico: Uma Abordagem Computacional](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Oscilador%20Harmônico%20Quântico%20Uma%20Abordagem%C2%A0Computacional.ipynb)
@@ -25,12 +59,6 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Mecânica Orbital](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Mecânica%20Orbital.ipynb)
 - [O Efeito Rossiter-McLaughlin](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/O_Efeito_Rossiter_McLaughlin.ipynb)
 - [Decaimento Radioativa](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Decaimento_Radioativo.ipynb)
-
-#### Cecília Nunes de Carvalho (ativo)
-- [Explorando teoria musical por meio do estudo de Curvas de Lissajous](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Explorando%20teoria%20musical%20por%20meio%20do%20estudo%20de%20Curvas%20de%20Lissajous.ipynb)
-- [Modelando uma Zona de Habitabilidade Circunstelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Toy%20Model%20de%20Zona%20de%20Habitabilidade%20Circunstellar.ipynb)
-- [Modelando Arco-íris](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/ArcoIris.ipynb)
-
 
 #### Felipe Menescal Pinto de Medeiros (ex-petiano)
 - [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
@@ -85,12 +113,6 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Tunelamento Quântico](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Tunalamento_quantico.ipynb)
 - [Estrutura de Bandas do Grafeno](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Estrutura_de_bandas_do_grafeno.ipynb)
 
-#### José Emanuel Vasconcelos Oliveira (ativo)
-- [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
-- [Equação de Laplace](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Laplace.ipynb)
-- [Lançamento oblíquo e arrasto](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Lan%C3%A7amento%20obl%C3%ADquo%20e%20arrasto.ipynb)
-- [Período de exoplaneta: Velocidade radial e Lomb-Scargle](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb)
-
 #### Matheus Felipe Freitas Tomaz (ex-petiano)
 - [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Algoritmo%20de%20reconstru%C3%A7%C3%A3o%20esparsa%20-%20MPFI.ipynb)
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/CONDU%C3%87%C3%83O%20T%C3%89RMICA%202D.ipynb)
@@ -110,10 +132,6 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [O período de um oscilador não harmônico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20período%20de%20um%20oscilador%20não%20harmônico.ipynb)
 - [Propagação temporal de uma função de onda (método de Crank-Nicolson)](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Propagação%20temporal%20de%20uma%20função%20de%20onda%20(método%20de%20Crank-Nicolson).ipynb)
 
-#### Paulo Henrique Cunha Pacheco (ativo)
-- [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
-- [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equa%C3%A7%C3%A3o%20de%20Gross-Pitaevskii.ipynb)
-
 #### Ricardo César Silva Rêgo (ex-petiano)
 - [Sistema de três molas](https://github.com/Ricardo-PET/Tres-molas/blob/main/Tres-molas-checkpoint.ipynb)
 - [Pêndulos acoplados](https://github.com/Ricardo-PET/P-ndulos_acoplados/blob/main/Pêndulos_acoplados-checkpoint.ipynb)
@@ -131,17 +149,4 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Encontrando Transições de Fase com Machine Learning](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Encontrando%20Transições%20de%20Fase%20com%20Machine%20Learning.ipynb)
 - [Átomos de Rydberg: Um Estudo de Campo Médio](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Rydberg.ipynb)
 - [Processos Estocásticos Quânticos: Um Estudo de Fotodetecção](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Fotodetec%C3%A7%C3%A3o.ipynb)
-
-#### Wallysson Pereira da Silva (ativo)
-- [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Onda.ipynb)
-- [Instabilidade no movimento relativístico de partículas num campo eletromagnético não uniforme](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Instabilidade%20no%20movimento%20relativístico%20de%20partículas%20num%20campo%20eletromagnético%20não%20uniforme.ipynb)
-- [O Problema do Caixeiro Viajante](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Problema%20do%20Caixeiro%20Viajante.ipynb)
-- [Atratores Caóticos](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Atratores%20Ca%C3%B3ticos.ipynb)
-
-#### Ylana Karolina Santos Lopes (ativo)
-- [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
-- [Simulação de Evento de Microlentes Gravitacionais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simulação%20de%20Evento%20de%20Microlentes%20Gravitacionais.ipynb)
-- [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
-- [Modelo SIR: Uma abordagem estocástica e determinística](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20SIR_Uma%20abordagem%20estoc%C3%A1stica%20e%20determin%C3%ADstica.ipynb)
-- [Rede convolucional para Redução de Ruídos em Imagens de Galáxias](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Rede_convolucional_para_Redu%C3%A7%C3%A3o_de_Ru%C3%ADdos_em_Imagens_de_Gal%C3%A1xias.ipynb)
 
