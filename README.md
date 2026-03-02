@@ -18,7 +18,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 #### Anderson Mateus (ex-petiano)
 - [Evolução temporal de um ferromagneto utilizando o modelo Ising 2D](https://github.com/andersonmsn0/PET.py/blob/main/Simulando%20ferromagneto%20modelo%20ising%202d/Simulando%20ferromagneto%20modelo%20ising%202d.ipynb)
 
-#### Bruno Ramos Galindo (ativo)
+#### Bruno Ramos Galindo (ex-petiano)
 - [Cinemática e dinâmica de rotação](https://github.com/Elbruno237/PET.py/blob/main/Cinematica_e_Dinamica_rotacional.ipynb)
 - [Determinando a distância interestelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Determinando%20a%20distância%20interestelar.ipynb)
 - [Efeito Compton](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Compton.ipynb)
@@ -29,6 +29,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 #### Cecília Nunes de Carvalho (ativo)
 - [Explorando teoria musical por meio do estudo de Curvas de Lissajous](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Explorando%20teoria%20musical%20por%20meio%20do%20estudo%20de%20Curvas%20de%20Lissajous.ipynb)
 - [Modelando uma Zona de Habitabilidade Circunstelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Toy%20Model%20de%20Zona%20de%20Habitabilidade%20Circunstellar.ipynb)
+- [Modelando Arco-íris](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/ArcoIris.ipynb)
 
 
 #### Felipe Menescal Pinto de Medeiros (ex-petiano)
@@ -122,13 +123,14 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Modelo de crescimento de um aglomerado de partículas (DLA - Cluster)](https://github.com/Ricardo-PET/Modelo_de_crescimento_de_um_aglomerado-DLA-/blob/master/Cluster_growth_model%20(DLA-Cluster)-checkpoint.ipynb)
 - [Órbita da Terra e Júpiter](https://github.com/Ricardo-PET/Orbita_Da_Terra_E_Jupiter/blob/master/Problema_de_tres_corpos-checkpoint.ipynb)
 
-#### Tiago Pernambuco Toledo de Macêdo (ativo)
+#### Tiago Pernambuco Toledo de Macêdo (ex-petiano)
 - [Autoenergias de uma Partícula em um Poço de Potencial Infinito](https://github.com/TiagoPernambuco/PET.py/blob/main/Poço%20de%20Potencial%20Infinito.ipynb)
 - [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equação%20de%20Gross-Pitaevskii.ipynb)
 - [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/1c519dcb2e0fe10dae2ef99fc9a3adabc984a79f/Notebooks/Transi%C3%A7%C3%B5es%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
 - [Localização de Anderson](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Localização%20de%20Anderson.ipynb)
 - [Encontrando Transições de Fase com Machine Learning](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Encontrando%20Transições%20de%20Fase%20com%20Machine%20Learning.ipynb)
 - [Átomos de Rydberg: Um Estudo de Campo Médio](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Rydberg.ipynb)
+- [Processos Estocásticos Quânticos: Um Estudo de Fotodetecção](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Fotodetec%C3%A7%C3%A3o.ipynb)
 
 #### Wallysson Pereira da Silva (ativo)
 - [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Onda.ipynb)
