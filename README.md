@@ -23,6 +23,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Equação de Laplace](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equação%20de%20Laplace.ipynb)
 - [Lançamento oblíquo e arrasto](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Lan%C3%A7amento%20obl%C3%ADquo%20e%20arrasto.ipynb)
 - [Período de exoplaneta: Velocidade radial e Lomb-Scargle](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb)
+- [Descrevendo o movimento de um pião](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Descrevendo%20o%20movimento%20de%20um%20pi%C3%A3o.ipynb)
 
 
 #### Paulo Henrique Cunha Pacheco 
