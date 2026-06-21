@@ -25,6 +25,8 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Período de exoplaneta: Velocidade radial e Lomb-Scargle](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb)
 - [Descrevendo o movimento de um pião](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Descrevendo%20o%20movimento%20de%20um%20pi%C3%A3o.ipynb)
 
+#### Juliana Magalhães Gonçalves
+- [Modelando o voo de uma abelha: uma abordagem computacional ao filme "Bee Movie"](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/modelando_o_voo_da_abelha.ipynb)
 
 #### Paulo Henrique Cunha Pacheco 
 - [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
