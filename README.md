@@ -38,6 +38,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [O Problema do Caixeiro Viajante](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Problema%20do%20Caixeiro%20Viajante.ipynb)
 - [Atratores Caóticos](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Atratores%20Ca%C3%B3ticos.ipynb)
 - [Flutuações de um Vácuo Quântico](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Flutua%C3%A7%C3%B5es%20de%20um%20V%C3%A1cuo%20Qu%C3%A2ntico.ipynb)
+- [Efeito Chladni: Uma Aplicação das Funções de Bessel] (https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Chladni%20-%20Uma%20Aplica%C3%A7%C3%A3o%20das%20Fun%C3%A7%C3%B5es%20de%20Bessel.ipynb)
 
 #### Ylana Karolina Santos Lopes 
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Trânsito%20Planetário.ipynb)
