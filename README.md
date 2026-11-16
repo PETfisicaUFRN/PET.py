@@ -27,6 +27,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 
 #### Juliana Magalhães Gonçalves
 - [Modelando o voo de uma abelha: uma abordagem computacional ao filme "Bee Movie"](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/modelando_o_voo_da_abelha.ipynb)
+- [Um estudo computacional dos harmônicos esféricos](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Um%20estudo%20computacional%20dos%20harm%C3%B4nicos%20esf%C3%A9ricos.ipynb)
 
 #### Paulo Henrique Cunha Pacheco 
 - [Modelo FitzHugh-Nagumo_O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
@@ -47,6 +48,7 @@ Aqui você pode conferir outros `Notebooks` elaborados pelos membros do **PET-F�
 - [Modelo SIR: Uma abordagem estocástica e determinística](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20SIR_Uma%20abordagem%20estoc%C3%A1stica%20e%20determin%C3%ADstica.ipynb)
 - [Rede convolucional para Redução de Ruídos em Imagens de Galáxias](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Rede_convolucional_para_Redu%C3%A7%C3%A3o_de_Ru%C3%ADdos_em_Imagens_de_Gal%C3%A1xias.ipynb)
 - [Perdendo Dinheiro na Bolsa de Valores usando Física e Redes Neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Perdendo%20dinheiro%20no%20mercado%20financeiro.ipynb)
+- [Análise de Estabilidade Linear da Conveção Térmica e MRI em Discos de Acreção](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Instabilidade%20Magnetorotacional%20An%C3%A1lise%20dos%20Modos%20de%20Oscila%C3%A7%C3%A3o.ipynb)
 
 
 ### Ex-petianos participantes
